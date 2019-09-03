@@ -6,3 +6,7 @@ The main ipynb files consist of two sections The first is the data extraction, i
 
 If the ipynb files decide not to load here in github (as they seem to want to do on all sorts of Jupyter Notebooks apparently at random), try these links instead:
 
+Ark 120: https://nbviewer.jupyter.org/github/RaadMahmoud/AGN_lightcurve_modelling/blob/master/lightcurve_extraction_and_modelling_ARK120_GitHub.ipynb
+
+NGC 4151:
+https://nbviewer.jupyter.org/github/RaadMahmoud/AGN_lightcurve_modelling/blob/master/lightcurve_extraction_and_modelling_NGC4151_GitHub.ipynb
