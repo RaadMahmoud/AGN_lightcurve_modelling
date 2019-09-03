@@ -5,7 +5,7 @@ In this (work in progress) repo we will extract and model the UV lightcurve of A
 The main ipynb files consist of two sections.
 
 The first is the data extraction, interpolation and rebinning, while the second is the physical modelling phase.
-Both sections are present for NGC 4151 while only section 1 is public for ARK 120 at the moment.
+Both sections are present for NGC 4151 while only section 1 is public for ARK 120 at the moment. Apologies for the sparse commenting as this is ongoing, but please don't hesitate to direct any questions to ra'ad.d.mahmoud@durham.ac.uk.
 
 If the ipynb files decide not to load here in github (as they seem to do on all sorts of Jupyter Notebooks apparently at random, cheers GitHub), either try refreshing it a few (hundred) times, or try these links instead:
 
